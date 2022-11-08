@@ -1,0 +1,1 @@
+# Collection of exercises completed or in progress for the Data Engineering Generation course.
